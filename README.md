@@ -9,7 +9,7 @@
 4. Полезные ссылки
 
 ### HTML/CSS
-- [Слова, часто используемые в CSS-классах] (https://github.com/yoksel/common-words)
+- [Слова, часто используемые в CSS-классах](https://github.com/yoksel/common-words)
 - [Подключение шрифтов] (http://site4business.net/css/kak-podklyuchit-shrift.html)
 - [Оптимизация изображений] (https://squoosh.app/)
 - [Шпаргалка по форматам изображений для веба] (https://htmlacademy.ru/blog/html/image-formats)
