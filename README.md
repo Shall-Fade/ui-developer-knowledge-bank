@@ -19,6 +19,7 @@
 
 ### Примеры кода
 Полный HTML-макет Swiper.js
+```
 <!-- Slider main container -->
 <div class="swiper">
   <!-- Additional required wrapper -->
@@ -38,6 +39,7 @@
   <!-- If we need scrollbar -->
   <div class="swiper-scrollbar"></div>
 </div>
+```
 
 ### Полезные ссылки
 - [Swiper js](https://swiperjs.com/get-started)
