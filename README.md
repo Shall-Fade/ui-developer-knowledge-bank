@@ -23,5 +23,6 @@
 - [Swiper js](https://swiperjs.com/get-started)
 - [jQuery](https://releases.jquery.com/)
 - [jQuery Masked Input](https://plugins.jquery.com/maskedinput/)
+- [jQuery More Content](https://wahawaher.github.io/morecontent-js/)
 - [Список шрифтов и начертаний используемых в макете Figma](https://www.figma.com/community/plugin/746097413727734148/Font-Fascia)
 - [Шпаргалка функций плавности](https://easings.net/ru)
