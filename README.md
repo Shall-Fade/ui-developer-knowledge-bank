@@ -45,6 +45,24 @@
 </div>
 ```
 
+Сворачивание блока (пример: модалка, ме)
+```
+// Нажатие по области вне блока
+$(document).mouseup(function (e) {
+    let container = $(".container-example");
+    if (container.has(e.target).length === 0) {
+        $(".container-example").slideUp(300);
+    }
+});
+
+// Нажатие на кнопку "esc"
+$(document).keyup(function(e) {
+    if (e.keyCode === 27) { 
+        $('.container-example').slideUp(300);
+    }
+});
+```
+
 ### Полезные ссылки
 - [Swiper js](https://swiperjs.com/get-started)
 - [jQuery CDN](https://releases.jquery.com/)
